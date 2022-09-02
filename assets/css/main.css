@@ -531,6 +531,7 @@
     display: flex;
     align-items: center;
     position: relative;
+    top: 2px;
     cursor: pointer;
 
 }
@@ -555,7 +556,7 @@
 .header__search-option {
     display: none;
     position: absolute;
-    top: 129%;
+    top: 131%;
     right: 0;
     background-color: var(--white-color);
     z-index: 999;
